@@ -19,7 +19,7 @@ This project presents an in-depth analysis of vendor performance using Python, J
 - **Power BI**
 - **Git & GitHub**
 
-##Power BI Dashboard
+Power BI Dashboard
 ![Dashboard Preview](Dashboard.png)
 
 
