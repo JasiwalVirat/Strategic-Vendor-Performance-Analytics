@@ -19,6 +19,10 @@ This project presents an in-depth analysis of vendor performance using Python, J
 - **Power BI**
 - **Git & GitHub**
 
+##Power BI Dashboard
+![Dashboard Preview](Dashboard.png)
+
+
 ## 🚀 Getting Started
 
 Clone this repository and open the notebooks using Jupyter or any compatible IDE like VS Code.
